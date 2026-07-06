@@ -114,16 +114,5 @@ These projects showcase fundamental Python programming concepts and demonstrate 
 
 This project is open source and available under the MIT License.
 
----
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/favour-cmyk/PYTHON-PROGRAMMING/issues).
-
----
-
-## 📧 Contact
-
-For questions or feedback, please reach out via GitHub or email.
-
-**Happy Coding! 🐍**
