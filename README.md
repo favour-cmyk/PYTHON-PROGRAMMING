@@ -105,8 +105,8 @@ These projects showcase fundamental Python programming concepts and demonstrate 
 
 ## 👨‍🎓 Course Information
 
-- **Course:** COS 202 – Computer Programming II
-- **Student:** Olominu Pamilerin Emmanuel
+- **Course:** COS 202
+- **Student:** NWANKPA FAVOUR CHINEDU
 
 ---
 
