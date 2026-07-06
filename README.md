@@ -6,6 +6,10 @@
 
 This repository contains Python projects completed for **COS 202 – Computer Programming II**. The programs were developed to demonstrate the use of Python in solving mathematical and academic-related problems.
 
+Name: NWANKPA FAVOUR CHINEDU
+Matric Number: 241203015
+Department: Data Science 
+
 ---
 
 ## 📋 Projects
